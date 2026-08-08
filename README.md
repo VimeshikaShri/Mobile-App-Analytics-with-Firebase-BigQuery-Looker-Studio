@@ -4,6 +4,8 @@ A React Native e-commerce demo app instrumented end-to-end with Firebase Analyti
 
 This project was built to demonstrate the full mobile analytics pipeline a real product team would use, not just "add a tracking library," but the actual chain: **instrument → validate → export → query → visualize**.
 
+![](https://github.com/VimeshikaShri/Mobile-App-Analytics-with-Firebase-BigQuery-Looker-Studio/blob/main/4.png)
+
 **Live dashboard:** [View on Looker Studio](https://datastudio.google.com/s/qCoew2ajoww)
 
 **Google Data Studio:** [View full GA4 events report (PDF)](Mobile_App.pdf)
