@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683626918758",
+    "project_id": "my-shop-demo-da9be",
+    "storage_bucket": "my-shop-demo-da9be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683626918758:android:a2947b2ae573e2dd3e8ea7",
+        "android_client_info": {
+          "package_name": "com.vimeshika.myshopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACpFrNc0mqXKVhHFZ2h6ctTe7VyCihcBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

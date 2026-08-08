@@ -1,0 +1,21 @@
+{
+  "name": "my-shop-app",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "private": true,
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "prebuild": "expo prebuild --clean --platform android"
+  },
+  "dependencies": {
+    "expo": "~57.0.0",
+    "expo-router": "~57.0.9",
+    "expo-dev-client": "~57.0.10",
+    "expo-build-properties": "~57.0.0",
+    "@react-native-firebase/app": "^26.1.0",
+    "@react-native-firebase/analytics": "^26.1.0",
+    "react": "19.x",
+    "react-native": "~0.86.0"
+  }
+}

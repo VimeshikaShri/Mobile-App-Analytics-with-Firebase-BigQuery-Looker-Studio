@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native projects (regenerated via `expo prebuild`)
+android/
+ios/
+
+# Firebase config — contains project-specific keys, never commit this
+google-services.json
+GoogleService-Info.plist
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Native build artifacts
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# Editor / OS
+.DS_Store
+.vscode/
+*.swp
+
+# Metro bundler cache
+.metro-health-check*

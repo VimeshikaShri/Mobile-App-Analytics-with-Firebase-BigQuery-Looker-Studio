@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "my-shop-app",
+    "slug": "my-shop-app",
+    "android": {
+      "package": "com.vimeshika.myshopapp",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.vimeshika.myshopapp"
+    },
+    "plugins": [
+      "@react-native-firebase/app",
+      "expo-build-properties",
+      "@react-native-firebase/analytics"
+    ]
+  }
+}
