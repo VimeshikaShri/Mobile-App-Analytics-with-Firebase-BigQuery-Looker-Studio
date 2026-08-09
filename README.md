@@ -304,11 +304,13 @@ WHERE event_name = 'purchase'
 
 ---
 
-## Dashboard
+## Dashboard and Results
 
 Built in Looker Studio, connected as a **live data source to BigQuery** (not a static export), the dashboard reflects new data automatically as it lands.
 
 **[→ View the live dashboard](https://datastudio.google.com/s/qCoew2ajoww)**
+
+![](https://github.com/VimeshikaShri/Mobile-App-Analytics-with-Firebase-BigQuery-Looker-Studio/blob/main/Mobile%20App%20Analytics%20Dashboard.jpg)
 
 Includes:
 - KPI scorecards (sessions, engagement rate, event count, checkouts, WAU/MAU)
